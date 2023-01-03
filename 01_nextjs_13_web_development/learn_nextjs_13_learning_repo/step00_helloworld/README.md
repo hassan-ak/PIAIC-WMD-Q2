@@ -48,6 +48,7 @@
    - public, static files such as images are placed in a public folder of a nextjs root application, these files are rendered at build time
    - .eslintrc.json, configration for eslint library
    - .gitignore, list files and folders not to be tracked by the git
+   - next.config.js, stores next configraton settings
    - next-env.d.ts, This file ensures Next.js types are picked up by the TypeScript compiler. You cannot remove it, however, you can edit it
    - package-lock.json, It contains basic information about the project. It describes the exact tree that was generated to allow subsequent installs to have the identical tree
    - package.json, It records important metadata about a project
