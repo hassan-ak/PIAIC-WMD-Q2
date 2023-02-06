@@ -8,7 +8,7 @@
 
 ```mermaid
 graph LR
-Product Design --> UX
+Product-Design --> UX
 UX --> UI
 ```
 
