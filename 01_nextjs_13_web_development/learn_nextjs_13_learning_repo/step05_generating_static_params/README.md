@@ -104,4 +104,6 @@
 
 ## Reading Material
 
+- [Generate Static Params](https://beta.nextjs.org/docs/api-reference/generate-static-params)
+- [Generating Static Params](https://beta.nextjs.org/docs/data-fetching/generating-static-params)
 - [Dynamic Segments](https://beta.nextjs.org/docs/routing/defining-routes#dynamic-segments)
