@@ -1,6 +1,6 @@
-# Chakra UI Hello World with Next13
+# CTailwind CSS Hello World with Next13
 
-## Code Hello World with Chakra in NextJS
+## Code Hello World with Tailwind CSS in NextJS
 
 1. Create a basic NextJS app for that you can follow step00.
 
