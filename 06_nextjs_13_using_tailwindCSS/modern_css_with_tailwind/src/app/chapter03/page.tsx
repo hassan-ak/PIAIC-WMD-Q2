@@ -57,11 +57,11 @@ export default function Chapter03() {
       <h1 className='text-4xl font-bold'>Title</h1>
       <h2 className='text-2xl font-semibold'>Subtitle</h2>
       <h3 className='text-lg font-medium italic'>Header</h3>
-
       <div className='h-1 bg-black'></div>
       {/*  */}
       {/*  */}
       {/*  */}
+      <div className='text-gray-300 hover:text-gray-700'>Hi</div>
       <div className='h-1 bg-black'></div>
       {/*  */}
       {/*  */}
