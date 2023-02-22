@@ -66,6 +66,30 @@ export default function Chapter03() {
       {/*  */}
       {/*  */}
       {/*  */}
+      <div className='h-10 bg-slate-100 text-left align-baseline leading-tight tracking-tight'>
+        text-left align-baseline leading-tight tracking-tight
+      </div>
+      <div className='h-10 bg-slate-300 text-center align-top leading-snug tracking-tighter'>
+        text-center align-top leading-snug tracking-tighter
+      </div>
+      <div className='h-10 bg-slate-400 text-right align-middle leading-normal tracking-wide'>
+        text-right align-middle leading-normal tracking-wide
+      </div>
+      <div className='h-10 bg-slate-500 text-justify align-bottom leading-relaxed tracking-wider'>
+        text-justify align-bottom eading-relaxed tracking-wider
+      </div>
+      <div className='h-10 bg-slate-600 text-center align-text-top leading-loose tracking-widest'>
+        text-center align-text-top leading-loose tracking-widest
+      </div>
+      <div className='h-10 bg-slate-700 text-center align-text-bottom'>
+        text-center align-text-bottom
+      </div>
+      <div className='h-10 bg-slate-800 text-center align-sub'>
+        text-center align-sub
+      </div>
+      <div className='h-10 bg-slate-900 text-center align-super'>
+        text-center align-super
+      </div>
       <div className='h-1 bg-black'></div>
       {/*  */}
       {/*  */}
