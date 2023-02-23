@@ -94,10 +94,24 @@ export default function Chapter03() {
       {/*  */}
       {/*  */}
       {/*  */}
+      <p className='first-letter:text-9xl first-letter:font-bold first-line:text-2xl'>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt
+        ante hendrerit arcu aliquet fringilla. Maecenas imperdiet, elit eget
+        sodales vestibulum, urna ex viverra orci, ultrices lobortis neque libero
+        fringilla nibh. Morbi congue placerat elit, in tincidunt turpis. Nullam
+        luctus orci ullamcorper porttitor vestibulum. Fusce tortor augue,
+        fermentum ut vestibulum eu, convallis in enim. Maecenas blandit mauris
+        lacinia risus dignissim fermentum. In tristique, lectus ac vestibulum
+        interdum, libero massa luctus elit, nec eleifend lacus diam id purus.
+        Fusce vehicula felis arcu, vel convallis risus molestie vitae. Aliquam
+        finibus orci vitae neque euismod vulputate. Curabitur quis augue
+        lobortis, viverra mi sit amet, aliquet sapien. Nullam semper enim in
+        justo lacinia, at pretium quam maximus. Nulla molestie sapien id dui
+        luctus, ut condimentum orci tempor. Sed blandit, orci ac commodo
+        commodo, urna ex blandit felis, a dignissim quam odio at ipsum. Etiam et
+        libero orci. Ut vel rutrum nisl.
+      </p>
       <div className='h-1 bg-black'></div>
-      {/*  */}
-      {/*  */}
-      {/*  */}
     </div>
   );
 }
