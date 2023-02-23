@@ -125,6 +125,7 @@ export default function Chapter03() {
       {/*  */}
       {/*  */}
       {/*  */}
+      <article className='prose prose-xl prose-stone'>All your text</article>
       <div className='h-1 bg-black'></div>
       {/*  */}
       {/*  */}
