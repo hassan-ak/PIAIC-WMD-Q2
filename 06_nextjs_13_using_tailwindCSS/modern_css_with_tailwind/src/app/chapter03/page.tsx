@@ -112,6 +112,39 @@ export default function Chapter03() {
         libero orci. Ut vel rutrum nisl.
       </p>
       <div className='h-1 bg-black'></div>
+      {/*  */}
+      {/*  */}
+      {/*  */}
+      <ul className='list-decimal marker:text-2xl marker:text-blue-300'>
+        <li>
+          Now this is a story all about how, my life got flipped-turned upside
+          down
+        </li>
+      </ul>
+      <div className='h-1 bg-black'></div>
+      {/*  */}
+      {/*  */}
+      {/*  */}
+      <div className='h-1 bg-black'></div>
+      {/*  */}
+      {/*  */}
+      {/*  */}
+      <div className='h-1 bg-black'></div>
+      {/*  */}
+      {/*  */}
+      {/*  */}
+      <div className='h-1 bg-black'></div>
+      {/*  */}
+      {/*  */}
+      {/*  */}
+      <div className='h-1 bg-black'></div>
+      {/*  */}
+      {/*  */}
+      {/*  */}
+      <div className='h-1 bg-black'></div>
+      {/*  */}
+      {/*  */}
+      {/*  */}
     </div>
   );
 }
