@@ -8,12 +8,12 @@ export default function Chapter01() {
       {/*  */}
       {/*  */}
       <h1 className='my-5 text-center text-5xl font-extrabold'>Chapter 01</h1>
-      <div className='h-2 bg-black'></div>
+      <div className='mb-5 h-2 bg-black'></div>
       {/*  */}
       {/*  */}
       {/*  */}
       <h1>Welcome to NorthBy</h1>
-      <div className='h-1 bg-black'></div>
+      <div className='mb-5 h-1 bg-black'></div>
       <div className='flex'>
         <div>
           <Image src={pLogo} alt='Panaverse Logo' width={80}></Image>
@@ -27,7 +27,7 @@ export default function Chapter01() {
       {/*  */}
       {/*  */}
       {/*  */}
-      <div className='h-1 bg-black'></div>
+      <div className='mb-5 h-1 bg-black'></div>
       <div className='flex justify-center'>
         <div className='order-last mx-4'>
           <Image src={pLogo} alt='Panaverse Logo' width={80}></Image>
@@ -41,7 +41,7 @@ export default function Chapter01() {
       {/*  */}
       {/*  */}
       {/*  */}
-      <div className='h-1 bg-black'></div>
+      <div className='mb-5 h-1 bg-black'></div>
       <div className='flex justify-center bg-gray-300'>
         <div className='order-last mx-4'>
           <Image src={pLogo} alt='Panaverse Logo' width={80}></Image>
@@ -59,7 +59,7 @@ export default function Chapter01() {
       {/*  */}
       {/*  */}
       {/*  */}
-      <div className='h-1 bg-black'></div>
+      <div className='mb-5 h-1 bg-black'></div>
       <div className='flex justify-center bg-gray-300'>
         <div className='order-last mx-4 self-center'>
           <Image
@@ -81,7 +81,7 @@ export default function Chapter01() {
           </button>
         </div>
       </div>
-      <div className='h-1 bg-black'></div>
+      <div className='mb-5 h-1 bg-black'></div>
       {/*  */}
       {/*  */}
       {/*  */}

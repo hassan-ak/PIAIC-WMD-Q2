@@ -1,5 +1,3 @@
-import pLogo from '@/../public/pLogo.png';
-import Image from 'next/image';
 import React from 'react';
 
 export default function Chapter03() {
@@ -9,7 +7,7 @@ export default function Chapter03() {
       {/*  */}
       {/*  */}
       <h1 className='my-5 text-center text-5xl font-extrabold'>Chapter 03</h1>
-      <div className='h-2 bg-black'></div>
+      <div className='mb-5 h-2 bg-black'></div>
       {/*  */}
       {/*  */}
       {/*  */}
@@ -44,25 +42,25 @@ export default function Chapter03() {
       </p>
       <p className='text-8xl font-thin'>text-8xl font-thin</p>
       <p className='font-hairline text-9xl'>text-9xl font-hairline</p>
-      <div className='h-1 bg-black'></div>
+      <div className='mb-5 h-1 bg-black'></div>
       {/*  */}
       {/*  */}
       {/*  */}
       <h1 className='text-3xl font-semibold'>Title</h1>
       <h2 className='text-xl'>Subtitle</h2>
-      <div className='h-1 bg-black'></div>
+      <div className='mb-5 h-1 bg-black'></div>
       {/*  */}
       {/*  */}
       {/*  */}
       <h1 className='text-4xl font-bold'>Title</h1>
       <h2 className='text-2xl font-semibold'>Subtitle</h2>
       <h3 className='text-lg font-medium italic'>Header</h3>
-      <div className='h-1 bg-black'></div>
+      <div className='mb-5 h-1 bg-black'></div>
       {/*  */}
       {/*  */}
       {/*  */}
       <div className='text-gray-300 hover:text-gray-700'>Hi</div>
-      <div className='h-1 bg-black'></div>
+      <div className='mb-5 h-1 bg-black'></div>
       {/*  */}
       {/*  */}
       {/*  */}
@@ -90,7 +88,7 @@ export default function Chapter03() {
       <div className='h-10 bg-slate-900 text-center align-super'>
         text-center align-super
       </div>
-      <div className='h-1 bg-black'></div>
+      <div className='mb-5 h-1 bg-black'></div>
       {/*  */}
       {/*  */}
       {/*  */}
@@ -111,7 +109,7 @@ export default function Chapter03() {
         commodo, urna ex blandit felis, a dignissim quam odio at ipsum. Etiam et
         libero orci. Ut vel rutrum nisl.
       </p>
-      <div className='h-1 bg-black'></div>
+      <div className='mb-5 h-1 bg-black'></div>
       {/*  */}
       {/*  */}
       {/*  */}
@@ -121,12 +119,12 @@ export default function Chapter03() {
           down
         </li>
       </ul>
-      <div className='h-1 bg-black'></div>
+      <div className='mb-5 h-1 bg-black'></div>
       {/*  */}
       {/*  */}
       {/*  */}
       <article className='prose prose-xl prose-stone'>All your text</article>
-      <div className='h-1 bg-black'></div>
+      <div className='mb-5 h-1 bg-black'></div>
       {/*  */}
       {/*  */}
       {/*  */}
@@ -148,7 +146,7 @@ export default function Chapter03() {
           <input type='date' name='date' size={15} maxLength={30} />
         </form>
       </div>
-      <div className='h-1 bg-black'></div>
+      <div className='mb-5 h-1 bg-black'></div>
       {/*  */}
       {/*  */}
       {/*  */}

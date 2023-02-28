@@ -1,5 +1,3 @@
-import pLogo from '@/../public/pLogo.png';
-import Image from 'next/image';
 import React from 'react';
 
 export default function Chapter03() {
@@ -31,7 +29,7 @@ export default function Chapter03() {
           </button>
         </div>
       </div>
-      <div className='mb-5 h-2 bg-black'></div>
+      <div className='mb-5 h-1 bg-black'></div>
       {/*  */}
       {/*  */}
       {/*  */}
@@ -42,7 +40,7 @@ export default function Chapter03() {
           Six
         </button>
       </div>
-      <div className='mb-5 h-2 bg-black'></div>
+      <div className='mb-5 h-1 bg-black'></div>
       {/*  */}
       {/*  */}
       {/*  */}
@@ -58,7 +56,7 @@ export default function Chapter03() {
           <button className='mx-10 bg-white p-10 shadow-inner'>Six</button>
         </div>
       </div>
-      <div className='mb-5 h-2 bg-black'></div>
+      <div className='mb-5 h-1 bg-black'></div>
       {/*  */}
       {/*  */}
       {/*  */}
@@ -72,7 +70,7 @@ export default function Chapter03() {
           <button className='mx-10 bg-white p-10'>Four</button>
         </div>
       </div>
-      <div className='mb-5 h-2 bg-black'></div>
+      <div className='mb-5 h-1 bg-black'></div>
       {/*  */}
       {/*  */}
       {/*  */}
@@ -83,23 +81,7 @@ export default function Chapter03() {
           </div>
         </div>
       </div>
-      <div className='mb-5 h-2 bg-black'></div>
-      {/*  */}
-      {/*  */}
-      {/*  */}
-      <div className='mb-5 h-2 bg-black'></div>
-      {/*  */}
-      {/*  */}
-      {/*  */}
-      <div className='mb-5 h-2 bg-black'></div>
-      {/*  */}
-      {/*  */}
-      {/*  */}
-      <div className='mb-5 h-2 bg-black'></div>
-      {/*  */}
-      {/*  */}
-      {/*  */}
-      <div className='mb-5 h-2 bg-black'></div>
+      <div className='mb-5 h-1 bg-black'></div>
       {/*  */}
       {/*  */}
       {/*  */}
