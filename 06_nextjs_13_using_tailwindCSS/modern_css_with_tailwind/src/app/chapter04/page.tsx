@@ -76,6 +76,13 @@ export default function Chapter03() {
       {/*  */}
       {/*  */}
       {/*  */}
+      <div className='bg-gray-50'>
+        <div className='p-10 text-6xl font-bold'>
+          <div className='bg-gradient-to-l from-gray-50 to-black bg-clip-text py-2 text-transparent'>
+            NorthBy: A Premium in Sight and Sound
+          </div>
+        </div>
+      </div>
       <div className='mb-5 h-2 bg-black'></div>
       {/*  */}
       {/*  */}
