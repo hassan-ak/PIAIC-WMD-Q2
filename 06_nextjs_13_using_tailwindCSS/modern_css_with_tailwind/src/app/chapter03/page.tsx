@@ -130,18 +130,24 @@ export default function Chapter03() {
       {/*  */}
       {/*  */}
       {/*  */}
-      <div className='h-1 bg-black'></div>
-      {/*  */}
-      {/*  */}
-      {/*  */}
-      <div className='h-1 bg-black'></div>
-      {/*  */}
-      {/*  */}
-      {/*  */}
-      <div className='h-1 bg-black'></div>
-      {/*  */}
-      {/*  */}
-      {/*  */}
+      <h1 className='font-bold'>HTML Form</h1>
+      <p>This is how form elements look out of the box.</p>
+      <div className='bg-stone-300'>
+        <form action='' method='' className='flex-col'>
+          <p>Full Name</p>
+          <input
+            type='text'
+            name='fullName'
+            size={15}
+            maxLength={30}
+            required
+          />
+          <p>Email address</p>
+          <input type='email' name='email' size={15} maxLength={30} />
+          <p>When is your event?</p>
+          <input type='date' name='date' size={15} maxLength={30} />
+        </form>
+      </div>
       <div className='h-1 bg-black'></div>
       {/*  */}
       {/*  */}
