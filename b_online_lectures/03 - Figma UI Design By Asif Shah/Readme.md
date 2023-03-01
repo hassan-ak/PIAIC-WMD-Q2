@@ -10,4 +10,8 @@
 
 ### Class 3:
 
-1. Introduction to Design
+1. Introduction to Figma Design
+
+### Class 4:
+
+1. Basic Designs with Figma
