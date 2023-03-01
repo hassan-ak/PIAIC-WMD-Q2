@@ -65,7 +65,20 @@ export default function Chapter01() {
       {/*************************************************************/}
       {/*************************************************************/}
       {/*************************************************************/}
-
+      <div className='m-14 flex items-center text-gray-800'>
+        <Image
+          src='https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=80'
+          alt=''
+          width={150}
+          height={150}
+          className='mr-4 h-20 w-20 rounded-full object-cover'
+        ></Image>
+        <div>
+          <h3 className='text-xl font-bold'>Matt Cooper</h3>
+          <p>Designer - CircleAI</p>
+        </div>
+      </div>
+      <div className='my-5 h-1 bg-black'></div>
       {/*************************************************************/}
       {/*************************************************************/}
       {/*************************************************************/}
