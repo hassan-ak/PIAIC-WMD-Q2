@@ -212,6 +212,53 @@ export default function Chapter01() {
       {/*************************************************************/}
       {/*************************************************************/}
       {/*************************************************************/}
+      <div className='bg-gray-100 p-8 text-gray-700'>
+        {/* <div className='container flex items-start'> */}
+        <div className='my-6 flex w-auto max-w-md items-start'>
+          <span className='mr-4 block rounded bg-red-600 py-1 px-3 text-xl font-bold text-white'>
+            1
+          </span>
+          <div>
+            <h3 className='text-lg font-bold text-gray-800'>
+              Whom is this event intended for?
+            </h3>
+            <p className='mt-1'>
+              Rose event is organized for both aspiring and accomplished
+              designers, developers and marketers around the world.
+            </p>
+          </div>
+        </div>
+        {/* <div className='container flex items-start'> */}
+        <div className='my-6 flex w-auto max-w-md items-start'>
+          <span className='mr-4 block rounded bg-red-600 py-1 px-3 text-xl font-bold text-white'>
+            2
+          </span>
+          <div>
+            <h3 className='text-lg font-bold text-gray-800'>
+              Why should I come maybe it&apos;s a waste of time?
+            </h3>
+            <p className='mt-1'>
+              You should come to Rose this year because it will be one of the
+              most information packed events of the year.
+            </p>
+          </div>
+        </div>
+        {/* <div className='container flex items-start'> */}
+        <div className='my-6 flex w-auto max-w-md items-start'>
+          <span className='mr-4 block rounded bg-red-600 py-1 px-3 text-xl font-bold text-white'>
+            3
+          </span>
+          <div>
+            <h3 className='text-lg font-bold text-gray-800'>
+              Any restrictions that I should be aware of?
+            </h3>
+            <p className='mt-1'>
+              Yes you definitely need to leave your preconceptions behind, keep
+              an open mind and enjoy the presentations.
+            </p>
+          </div>
+        </div>
+      </div>
       <div className='my-5 h-1 bg-black'></div>
       {/*************************************************************/}
       {/*************************************************************/}
