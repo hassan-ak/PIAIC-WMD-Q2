@@ -11,6 +11,12 @@ const nextConfig = {
         port: '',
         pathname: '/photos/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'res.cloudinary.com',
+        port: '',
+        pathname: '/thirus/image/upload/**',
+      },
     ],
   },
 };
