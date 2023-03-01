@@ -83,6 +83,19 @@ export default function Chapter01() {
       {/*  */}
       {/*  */}
       {/*  */}
+      <div className='text-gray-800'>
+        <h1 className='mb-1 text-xl font-bold'>Flex Wrap</h1>
+        <div className='m-14 flex w-auto max-w-none flex-wrap justify-around'>
+          <Profile1 />
+          <Profile2 />
+          <Profile3 />
+          <Profile4 />
+        </div>
+      </div>
+      <div className='my-5 h-1 bg-black'></div>
+      {/*  */}
+      {/*  */}
+      {/*  */}
     </div>
   );
 }
