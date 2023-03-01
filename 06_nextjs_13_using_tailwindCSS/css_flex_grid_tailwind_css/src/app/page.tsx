@@ -11,6 +11,9 @@ export default function Home() {
         <li>
           <Link href='chapter01'>Display Flex</Link>
         </li>
+        <li>
+          <Link href='chapter02'>Justify Content</Link>
+        </li>
       </ul>
     </div>
   );
