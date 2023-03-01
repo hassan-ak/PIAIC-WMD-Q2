@@ -167,10 +167,15 @@ export default function Chapter01() {
       {/*  */}
       {/*  */}
       {/*  */}
-      <div className='my-5 h-1 bg-black'></div>
-      {/*  */}
-      {/*  */}
-      {/*  */}
+      <div className='bg-gray-100 p-12 text-center text-gray-800'>
+        <h2 className='text-3xl font-bold'>Top Clients</h2>
+        <div className='mt-6 flex flex-wrap-reverse justify-around'>
+          <Logo1 />
+          <Logo2 />
+          <Logo3 />
+          <Logo4 />
+        </div>
+      </div>
       <div className='my-5 h-1 bg-black'></div>
     </div>
   );
