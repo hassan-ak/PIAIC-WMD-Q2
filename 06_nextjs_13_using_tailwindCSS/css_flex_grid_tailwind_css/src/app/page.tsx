@@ -17,6 +17,9 @@ export default function Home() {
         <li>
           <Link href='chapter03'>Flex Wrap</Link>
         </li>
+        <li>
+          <Link href='chapter04'>Align Items</Link>
+        </li>
       </ul>
     </div>
   );
