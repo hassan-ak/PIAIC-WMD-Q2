@@ -218,6 +218,32 @@ export default function Chapter01() {
       {/*  */}
       {/*  */}
       {/*  */}
+      <div className='bg-gray-200 py-8 text-gray-600'>
+        <div className='mx-8 max-w-xs rounded-lg bg-white p-9'>
+          <h1 className='text-3xl font-bold text-blue-600'>CSS Flex & Grid</h1>
+          <p className='mt- text-justify'>
+            This book takes a completely different approach. I won&apos;t teach
+            you the things flex and grid can do. Instead, I will first show you
+            some components and layouts and make you think how to build them
+            using the CSS concepts you already know. Now you have a problem, and
+            you want a solution.
+          </p>
+          <div className='mt-4 flex justify-between'>
+            <a
+              href='#'
+              className='rounded-md bg-blue-200 px-4 py-2 text-sm text-gray-900'
+            >
+              Prev
+            </a>
+            <a
+              href='#'
+              className='rounded-md bg-blue-200 px-4 py-2 text-sm text-gray-900'
+            >
+              Next
+            </a>
+          </div>
+        </div>
+      </div>
       <div className='my-5 h-1 bg-black'></div>
       {/*  */}
       {/*  */}
