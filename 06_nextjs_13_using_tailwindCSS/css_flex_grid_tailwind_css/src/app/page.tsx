@@ -14,6 +14,9 @@ export default function Home() {
         <li>
           <Link href='chapter02'>Justify Content</Link>
         </li>
+        <li>
+          <Link href='chapter03'>Flex Wrap</Link>
+        </li>
       </ul>
     </div>
   );

@@ -298,10 +298,6 @@ export default function Chapter01() {
         </div>
       </div>
       <div className='my-5 h-1 bg-black'></div>
-      {/*  */}
-      {/*  */}
-      {/*  */}
-      <div className='my-5 h-1 bg-black'></div>
     </div>
   );
 }
