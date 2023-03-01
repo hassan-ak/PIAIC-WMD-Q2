@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from 'next/image';
 
 export default function Chapter01() {
   const VideoIcon = () => {
@@ -34,13 +35,37 @@ export default function Chapter01() {
       {/*************************************************************/}
       {/*************************************************************/}
       {/*************************************************************/}
-
-      {/*************************************************************/}
-      {/*************************************************************/}
-      {/*************************************************************/}
-      {/*************************************************************/}
-      {/*************************************************************/}
+      <div className='flex  flex-wrap items-center justify-evenly text-gray-800'>
+        <div className='m-12 flex items-stretch border border-solid border-black'>
+          <VideoIcon />
+          <span className='border border-gray-400 px-3 text-lg'>Stretch</span>
+        </div>
+        <div className='m-12 flex items-center border border-solid border-black'>
+          <VideoIcon />
+          <span className='border border-gray-400 px-3 text-lg'>Center</span>
+        </div>
+        <div className='m-12 flex items-start border border-solid border-black'>
+          <VideoIcon />
+          <span className='border border-gray-400 px-3 text-lg'>Start</span>
+        </div>
+        <div className='m-12 flex items-end border border-solid border-black'>
+          <VideoIcon />
+          <span className='border border-gray-400 px-3 text-lg'>End</span>
+        </div>
+        <div className='m-12 flex items-baseline border border-solid border-black'>
+          <span className='inline-block rounded bg-pink-600 p-3 text-4xl text-white'>
+            V
+          </span>
+          <span className='border border-gray-400 px-3 text-lg'>Baseline</span>
+        </div>
+      </div>
       <div className='my-5 h-1 bg-black'></div>
+      {/*************************************************************/}
+      {/*************************************************************/}
+      {/*************************************************************/}
+      {/*************************************************************/}
+      {/*************************************************************/}
+
       {/*************************************************************/}
       {/*************************************************************/}
       {/*************************************************************/}
