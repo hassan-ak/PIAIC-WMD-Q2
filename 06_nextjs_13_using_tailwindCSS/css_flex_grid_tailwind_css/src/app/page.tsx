@@ -20,6 +20,18 @@ export default function Home() {
         <li>
           <Link href='chapter04'>Align Items</Link>
         </li>
+        <li>
+          <Link href='chapter05'>Flex Direction</Link>
+        </li>
+        <li>
+          <Link href='chapter06'>Flex Grow</Link>
+        </li>
+        <li>
+          <Link href='chapter07'>Flex Shrink</Link>
+        </li>
+        <li>
+          <Link href='chapter08'>Flex Basis</Link>
+        </li>
       </ul>
     </div>
   );
