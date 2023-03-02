@@ -110,7 +110,7 @@ export default function Chapter01() {
 
   return (
     <div>
-      <h1 className='my-5 text-center text-3xl font-bold'>Justify Content</h1>
+      <h1 className='my-5 text-center text-3xl font-bold'>Flex Wrap</h1>
       <div className='mb-5 h-2 bg-black'></div>
       {/*  */}
       {/*  */}
