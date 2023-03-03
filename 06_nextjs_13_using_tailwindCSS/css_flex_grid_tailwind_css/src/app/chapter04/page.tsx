@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 
-export default function Chapter01() {
+export default function Chapter04() {
   const VideoIcon = () => {
     return (
       <span className='mr-2 inline-block rounded bg-pink-600 p-3 text-white'>

@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 
-export default function Chapter01() {
+export default function Chapter03() {
   const Profile1 = () => {
     return (
       <div className='px-6 py-4 text-center'>

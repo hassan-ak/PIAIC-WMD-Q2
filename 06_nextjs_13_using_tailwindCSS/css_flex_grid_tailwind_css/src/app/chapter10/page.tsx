@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 
-export default function Chapter01() {
+export default function Chapter10() {
   return (
     <div>
       <h1 className='my-5 text-center text-3xl font-bold'>Auto Margins</h1>
@@ -11,7 +11,7 @@ export default function Chapter01() {
       {/*************************************************************/}
       {/*************************************************************/}
       {/*************************************************************/}
-      {/* <div className='bg-gray-200 p-8 text-gray-500 antialiased'>
+      <div className='bg-gray-200 p-8 text-gray-500 antialiased'>
         <div className='my-20 mx-auto flex w-80 max-w-none items-center justify-between rounded-lg bg-white p-4'>
           <div>
             <i className='fa fa-bell mr-2'></i>
@@ -21,14 +21,14 @@ export default function Chapter01() {
             2
           </span>
         </div>
-      </div> */}
+      </div>
       <div className='my-5 h-1 bg-black'></div>
       {/*************************************************************/}
       {/*************************************************************/}
       {/*************************************************************/}
       {/*************************************************************/}
       {/*************************************************************/}
-      {/* <div className='bg-gray-200 p-8 text-gray-500 antialiased'>
+      <div className='bg-gray-200 p-8 text-gray-500 antialiased'>
         <div className='my-20 mx-auto flex w-80 max-w-none items-center rounded-lg bg-white p-4'>
           <i className='fa fa-bell mr-2'></i>
           <span className='flex-grow text-lg'>Notifications</span>
@@ -36,14 +36,14 @@ export default function Chapter01() {
             2
           </span>
         </div>
-      </div> */}
+      </div>
       <div className='my-5 h-1 bg-black'></div>
       {/*************************************************************/}
       {/*************************************************************/}
       {/*************************************************************/}
       {/*************************************************************/}
       {/*************************************************************/}
-      {/* <div className='bg-gray-200 p-8 text-gray-500 antialiased'>
+      <div className='bg-gray-200 p-8 text-gray-500 antialiased'>
         <div className='my-20 mx-auto flex w-80 max-w-none items-center rounded-lg bg-white p-4'>
           <i className='fa fa-bell mr-2'></i>
           <span className='text-lg'>Notifications</span>
@@ -51,7 +51,7 @@ export default function Chapter01() {
             2
           </span>
         </div>
-      </div> */}
+      </div>
       <div className='my-5 h-1 bg-black'></div>
       {/*************************************************************/}
       {/*************************************************************/}

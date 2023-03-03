@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 
-export default function Chapter01() {
+export default function Chapter07() {
   return (
     <div>
       <h1 className='my-5 text-center text-3xl font-bold'>Flex Shrink</h1>

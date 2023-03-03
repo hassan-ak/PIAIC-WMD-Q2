@@ -38,6 +38,9 @@ export default function Home() {
         <li>
           <Link href='chapter10'>Auto Margins</Link>
         </li>
+        <li>
+          <Link href='chapter11'>Order</Link>
+        </li>
       </ul>
     </div>
   );
