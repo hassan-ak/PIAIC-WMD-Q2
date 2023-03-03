@@ -41,6 +41,9 @@ export default function Home() {
         <li>
           <Link href='chapter11'>Order</Link>
         </li>
+        <li>
+          <Link href='chapter12'>Align Self</Link>
+        </li>
       </ul>
     </div>
   );
