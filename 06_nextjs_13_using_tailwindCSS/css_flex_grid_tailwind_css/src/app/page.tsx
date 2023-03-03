@@ -32,6 +32,12 @@ export default function Home() {
         <li>
           <Link href='chapter08'>Flex Basis</Link>
         </li>
+        <li>
+          <Link href='chapter09'>Flex Shorthand Property</Link>
+        </li>
+        <li>
+          <Link href='chapter10'>Auto Margins</Link>
+        </li>
       </ul>
     </div>
   );
