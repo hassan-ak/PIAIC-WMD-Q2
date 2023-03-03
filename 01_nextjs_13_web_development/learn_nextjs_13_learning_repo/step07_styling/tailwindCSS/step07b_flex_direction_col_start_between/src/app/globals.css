@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-100 text-gray-700;
+  }
+}
+
+@layer components {
+  .card {
+    @apply mx-auto mt-20 h-80 w-72 rounded-xl bg-white p-8;
+  }
+  .card img {
+    @apply h-10;
+  }
+  .card span {
+    @apply text-lg font-bold;
+  }
+}
