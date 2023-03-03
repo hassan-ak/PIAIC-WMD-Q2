@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 
-export default function Chapter10() {
+export default function Chapter12() {
   return (
     <div>
       <h1 className='my-5 text-center text-3xl font-bold'>Align Self</h1>
