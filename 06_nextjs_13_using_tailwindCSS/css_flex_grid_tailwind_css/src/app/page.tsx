@@ -63,6 +63,12 @@ export default function Home() {
             <li>
               <Link href='article'>Article Preview</Link>
             </li>
+            <li>
+              <Link href='report'>Fitness Report</Link>
+            </li>
+            <li>
+              <Link href='tweet'>Single Tweet</Link>
+            </li>
           </ul>
         </div>
         {/*  */}
