@@ -8,8 +8,9 @@ export default function Home() {
       </h1>
       <div className='mb-5 h-2 bg-black'></div>
       <div className='flex flex-wrap justify-around'>
+        {/* Flex Box */}
         <div className='p-5'>
-          <h1 className='text-3xl font-bold'>Flex</h1>
+          <h1 className='text-3xl font-bold'>FlexBox</h1>
           <ul className='list-decimal px-10'>
             <li>
               <Link href='chapter01'>Display Flex</Link>
@@ -55,50 +56,26 @@ export default function Home() {
             </li>
           </ul>
         </div>
+        {/* Flex Examples */}
         <div className='p-5'>
-          <h1 className='text-3xl font-bold'>Flex</h1>
+          <h1 className='text-3xl font-bold'>Flex Examples</h1>
           <ul className='list-decimal px-10'>
             <li>
-              <Link href='chapter01'>Display Flex</Link>
-            </li>
-            <li>
-              <Link href='chapter02'>Justify Content</Link>
-            </li>
-            <li>
-              <Link href='chapter03'>Flex Wrap</Link>
-            </li>
-            <li>
-              <Link href='chapter04'>Align Items</Link>
-            </li>
-            <li>
-              <Link href='chapter05'>Flex Direction</Link>
-            </li>
-            <li>
-              <Link href='chapter06'>Flex Grow</Link>
-            </li>
-            <li>
-              <Link href='chapter07'>Flex Shrink</Link>
-            </li>
-            <li>
-              <Link href='chapter08'>Flex Basis</Link>
-            </li>
-            <li>
-              <Link href='chapter09'>Flex Shorthand Property</Link>
-            </li>
-            <li>
-              <Link href='chapter10'>Auto Margins</Link>
-            </li>
-            <li>
-              <Link href='chapter11'>Order</Link>
-            </li>
-            <li>
-              <Link href='chapter12'>Align Self</Link>
-            </li>
-            <li>
-              <Link href='chapter13'>Align Content</Link>
+              <Link href='article'>Article Preview</Link>
             </li>
           </ul>
         </div>
+        {/*  */}
+        <div className='p-5'>
+          <h1 className='text-3xl font-bold'>Grid</h1>
+          <ul className='list-decimal px-10'></ul>
+        </div>
+        {/*  */}
+        <div className='p-5'>
+          <h1 className='text-3xl font-bold'>Grid Examples</h1>
+          <ul className='list-decimal px-10'></ul>
+        </div>
+        {/*  */}
       </div>
     </div>
   );
