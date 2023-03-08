@@ -71,10 +71,14 @@ export default function Home() {
             </li>
           </ul>
         </div>
-        {/*  */}
+        {/* Grid Box */}
         <div className='p-5'>
           <h1 className='text-3xl font-bold'>Grid</h1>
-          <ul className='list-decimal px-10'></ul>
+          <ul className='list-decimal px-10'>
+            <li>
+              <Link href='chapter16'>Display Grid & Grid Template Columns</Link>
+            </li>
+          </ul>
         </div>
         {/*  */}
         <div className='p-5'>
