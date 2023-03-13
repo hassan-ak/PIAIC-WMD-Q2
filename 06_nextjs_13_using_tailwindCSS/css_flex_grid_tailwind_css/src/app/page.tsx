@@ -81,6 +81,9 @@ export default function Home() {
             <li>
               <Link href='chapter17'>Grid Template Rows</Link>
             </li>
+            <li>
+              <Link href='chapter18'>Gap</Link>
+            </li>
           </ul>
         </div>
         {/*  */}

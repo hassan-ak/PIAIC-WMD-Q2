@@ -17,6 +17,12 @@ const nextConfig = {
         port: '',
         pathname: '/thirus/image/upload/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'picsum.photos',
+        port: '',
+        pathname: '/**',
+      },
     ],
   },
 };
