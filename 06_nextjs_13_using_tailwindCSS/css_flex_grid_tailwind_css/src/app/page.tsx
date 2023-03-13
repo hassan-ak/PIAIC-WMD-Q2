@@ -78,6 +78,9 @@ export default function Home() {
             <li>
               <Link href='chapter16'>Display Grid & Grid Template Columns</Link>
             </li>
+            <li>
+              <Link href='chapter17'>Grid Template Rows</Link>
+            </li>
           </ul>
         </div>
         {/*  */}
