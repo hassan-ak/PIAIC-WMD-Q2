@@ -84,6 +84,12 @@ export default function Home() {
             <li>
               <Link href='chapter18'>Gap</Link>
             </li>
+            <li>
+              <Link href='chapter19'>Justify Content</Link>
+            </li>
+            <li>
+              <Link href='chapter20'>Align Content</Link>
+            </li>
           </ul>
         </div>
         {/*  */}
