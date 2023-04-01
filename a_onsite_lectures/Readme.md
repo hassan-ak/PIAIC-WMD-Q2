@@ -15,18 +15,34 @@
 
 1. Learn NextJS (05 - 07)
 
-### Class 1:
+### Class 01:
 
 1. Learn NextJS (07a)
 
-### Class 2:
+### Class 02:
 
 1. Learn NextJS (00 - 07a)
 
-### Class 3:
+### Class 03:
 
 1. Learn NextJS 07b (00 - 01)
 
-### Class 4:
+### Class 04:
 
 1. Learn NextJS 07b (00 - 05)
+
+### Class 05:
+
+1. Learn NextJS 07b (06 - 08)
+
+### Class 06:
+
+1. Learn NextJS 07
+
+### Class 07:
+
+1. Learn NextJS 08
+
+### Class 08:
+
+1. Learn NextJS 09
