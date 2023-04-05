@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-export default function Chapter13() {
+export default function Chapter19() {
   return (
     <div>
       <h1 className='my-5 text-center text-3xl font-bold'>Justify Content</h1>
