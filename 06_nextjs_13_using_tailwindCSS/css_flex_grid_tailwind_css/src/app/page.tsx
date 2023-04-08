@@ -90,6 +90,33 @@ export default function Home() {
             <li>
               <Link href='chapter20'>Align Content</Link>
             </li>
+            <li>
+              <Link href='chapter21'>Justify Items</Link>
+            </li>
+            <li>
+              <Link href='chapter22'>Align Items</Link>
+            </li>
+            <li>
+              <Link href='chapter23'>Place Items</Link>
+            </li>
+            <li>
+              <Link href='chapter24'>Grid Column Start, End & Span</Link>
+            </li>
+            <li>
+              <Link href='chapter25'>Grid Row</Link>
+            </li>
+            <li>
+              <Link href='chapter26'>Order</Link>
+            </li>
+            <li>
+              <Link href='chapter27'>Advanced Grid Template Values</Link>
+            </li>
+            <li>
+              <Link href='chapter28'>Grid Auto Flow</Link>
+            </li>
+            <li>
+              <Link href='chapter29'>Justify Self & Align Self</Link>
+            </li>
           </ul>
         </div>
         {/*  */}
