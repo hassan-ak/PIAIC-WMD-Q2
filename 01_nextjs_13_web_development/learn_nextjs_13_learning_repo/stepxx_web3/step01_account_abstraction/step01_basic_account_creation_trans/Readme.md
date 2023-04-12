@@ -59,7 +59,7 @@ Explore a basic implementation of account abstraction using ERC-4337. This examp
    ETH funding hash: 0x022d15042acdd781a3a70997f9802584e322c81d7a7a50c8fba1ff25de3dab61
    ```
 
-2. Fund accound with erc-20 token from some fucet or deposit from some other account
+2. Fund account with erc-20 token from some fucet or deposit from some other account
 
    ```
    ERC-20 funding hash: 0x4911a44b9c47793e3f0310ae76564fc1331501c9c6dcaeda0f72f7f658e75713
@@ -74,7 +74,7 @@ Explore a basic implementation of account abstraction using ERC-4337. This examp
    ```
 
    ```cmd
-   yarn run simpleAccount batchTransfer --to 0x42C53eCC67CFf59508ab5f498C863D58426CBFE1 --amount 0.001
+   yarn run simpleAccount transfer --to 0x42C53eCC67CFf59508ab5f498C863D58426CBFE1 --amount 0.001
    ```
 
    ```json
@@ -144,7 +144,7 @@ Explore a basic implementation of account abstraction using ERC-4337. This examp
    ```
 
    ```cmd
-   yarn run simpleAccount batchErc20Transfer --token 0x326C977E6efc84E512bB9C30f76E30c160eD06FB --to 0x42C53eCC67CFf59508ab5f498C863D58426CBFE1 --amount 1
+   yarn run simpleAccount erc20Transfer --token 0x326C977E6efc84E512bB9C30f76E30c160eD06FB --to 0x42C53eCC67CFf59508ab5f498C863D58426CBFE1 --amount 1
    ```
 
    ```json
