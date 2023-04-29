@@ -122,7 +122,18 @@ export default function Home() {
         {/*  */}
         <div className='p-5'>
           <h1 className='text-3xl font-bold'>Grid Examples</h1>
-          <ul className='list-decimal px-10'></ul>
+          <ul className='list-decimal px-10'>
+            <li>
+              <Link href='services'>Services Section</Link>
+            </li>
+            <li>
+              <Link href='twitter-summary'>Twitter Monthly Summary Card</Link>
+            </li>
+            <li>
+              <Link href='smd'>Social Media Dashboard</Link>
+            </li>
+          
+          </ul>
         </div>
         {/*  */}
       </div>
