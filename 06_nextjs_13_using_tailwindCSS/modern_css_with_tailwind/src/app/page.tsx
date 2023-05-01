@@ -20,6 +20,12 @@ export default function Home() {
         <li>
           <Link href='chapter04'>Chapter 04</Link>
         </li>
+        <li>
+          <Link href='chapter06'>Chapter 06</Link>
+        </li>
+        <li>
+          <Link href='chapter07'>Chapter 07</Link>
+        </li>
       </ul>
     </div>
   );
