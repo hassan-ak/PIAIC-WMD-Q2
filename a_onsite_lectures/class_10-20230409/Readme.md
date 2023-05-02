@@ -3,4 +3,4 @@
 ## Class 10 - 2023/04/09
 
 - [Learn NextJS](https://github.com/panaverse/learn-nextjs)
-  - Step 10
+  - Step 10 (React Client)
