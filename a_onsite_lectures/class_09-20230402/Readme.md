@@ -3,4 +3,4 @@
 ## Class 09 - 2023/04/02
 
 - [Learn NextJS](https://github.com/panaverse/learn-nextjs)
-  - Step 09
+  - Step 09 (Headless CMS)
